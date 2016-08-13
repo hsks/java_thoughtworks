@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10468031-c9d8-4d53-b17a-6c2904cd988b" name="Default" comment="Complete Isoscles #1">
+    <list default="true" id="10468031-c9d8-4d53-b17a-6c2904cd988b" name="Default" comment="Isoscles Prgram Complete">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Isoscles.java" afterPath="$PROJECT_DIR$/src/Isoscles.java" />
     </list>
     <ignored path="JAVA_THOUGHTWORKS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -515,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471111695072</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Isoscles Prgram Complete">
+      <created>1471112509256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1471112509256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -562,7 +568,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Isoscles Commit #1" />
     <MESSAGE value="Complete Isoscles #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Isoscles #1" />
+    <MESSAGE value="Isoscles Prgram Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Isoscles Prgram Complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
