@@ -15,7 +15,7 @@ public class Centered_Diamond {
             for(int k=0;k<2*i+1;k++)
                 System.out.print("*");
         }
-        for(int i=n-1;i>=0;i--)
+        for(int i=n-2;i>=0;i--)
         {
             System.out.println("");
             for(int j=n-i;j>0;j--)
