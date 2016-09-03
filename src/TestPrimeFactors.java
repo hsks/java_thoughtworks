@@ -11,8 +11,7 @@ public class TestPrimeFactors {
         int n;
         System.out.println("Enter the number");
         n=sc.nextInt();
-        PrimeFactors obj=new PrimeFactors();
-        ArrayList ar=obj.generate(n);
+        ArrayList ar=PrimeFactors.generate(n);
         for(int i=0;i<ar.size();i++)
         {
             System.out.println(ar.get(i));

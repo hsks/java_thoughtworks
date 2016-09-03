@@ -4,8 +4,7 @@
 public class TestFizzBuzz {
     public static void main(String args[])
     {
-        FizzBuzz obj=new FizzBuzz();
         for(int i=1;i<=100;i++)
-            System.out.println(obj.fizzBuzz(i));
+            System.out.println(FizzBuzz.fizzBuzz(i));
     }
 }

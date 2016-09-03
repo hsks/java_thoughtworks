@@ -8,7 +8,6 @@ public class TestCenteredName {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter n");
         int n=sc.nextInt();
-        Centered_Name obj=new Centered_Name();
-        obj.drawDiamond(n);
+        Centered_Name.drawDiamond(n);
     }
 }

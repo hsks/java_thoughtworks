@@ -5,11 +5,10 @@ import java.util.Scanner;
 public class TestRightTriangle {
     public static void main(String args[])
     {
-        Right_Triangle obj=new Right_Triangle();
         Scanner sc=new Scanner(System.in);
         int n=0;
         System.out.println("Enter n");
         n=sc.nextInt();
-        obj.drawTriangle(n);
+        Right_Triangle.drawTriangle(n);
     }
 }

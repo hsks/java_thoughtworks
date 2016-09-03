@@ -3,7 +3,7 @@
  */
 import java.util.*;
 public class Vertical_Asterisk {
-    public void drawPattern(int n)
+    public static void drawPattern(int n)
     {
         for(int i=0;i<n;i++)
         {

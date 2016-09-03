@@ -1,6 +1,6 @@
 /*Program to create fizzbuzz sequence for numbers from 1 to 100 */
 public class FizzBuzz {
-    public String fizzBuzz(int n)
+    public static String fizzBuzz(int n)
     {
         if(n%3==0&&n%5==0)
             return "FizzBuzz";
